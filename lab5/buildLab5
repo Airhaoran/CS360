@@ -1,0 +1,4 @@
+#comment line
+cc -o myserver server.c
+
+cc -o myclient client.c
