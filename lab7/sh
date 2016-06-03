@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cc lab7.c
+a.out diskimage Y/bigefile

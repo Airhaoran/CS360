@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm mydisk
+./mk mydisk 1028 1440
+cc lab7.c
